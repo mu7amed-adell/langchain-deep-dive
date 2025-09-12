@@ -206,9 +206,3 @@ jupyter notebook
 ## Future Directions
   - Retrieval techniques that address the context size problem.
 
-
-## Contributing
-We welcome contributions! Please see the notebook examples and add your own splitting techniques or improvements.
-
-## License
-This project is licensed under the MIT License.
