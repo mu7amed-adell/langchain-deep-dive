@@ -204,17 +204,8 @@ jupyter notebook
 - **Token splitter breaking words**: This is normal behavior for token-based splitting
 
 ## Future Directions
+  - Retrieval techniques that address the context size problem.
 
-### Planned Enhancements
-- Multi-lingual text splitting support
-- Advanced semantic splitting algorithms
-- Automated splitter selection based on content analysis
-- Integration with more embedding models and vector stores
-
-### Research Areas
-- Optimal chunk size determination
-- Cross-lingual retrieval optimization
-- Explainable AI for split quality assessment
 
 ## Contributing
 We welcome contributions! Please see the notebook examples and add your own splitting techniques or improvements.
